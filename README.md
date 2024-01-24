@@ -12,5 +12,19 @@ Atualmente estou aprendendo e criando projetos com
  
 <br>
 
-Me siga nas redes sociais, <a href="https://www.linkedin.com/in/larissa-bison-b744177a/" />acessando aqui!
+## Conecte-se comigo em:
+
+<p> 
+ <a href="https://www.linkedin.com/in/larissa-bison-b744177a/">
+ <img align="left" alt="icone do linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/6/PNG/256/sociallinkedin_member_307.png" />
+ <a/>
+ <a href="https://www.instagram.com/larissabison/">
+  <img align="left" alt="icone do linkedin" width="30px" src="https://cdn.icon-icons.com/icons2/6/PNG/256/social_instagram_306.png" />
+ <a/> 
+<p/>
+ 
+<br> 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laribg)](https://github.com/anuraghazra/github-readme-stats)
+
