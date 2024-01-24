@@ -12,5 +12,5 @@ Atualmente estou aprendendo e criando projetos com
  
 <br>
 
-Quer conhecer mais sobre meu trabalho e projetos, <a href="https://www.linkedin.com/in/larissa-bison-b744177a/" />acesse aqui!
+Me siga nas redes sociais, <a href="https://www.linkedin.com/in/larissa-bison-b744177a/" />acessando aqui!
 <br>
